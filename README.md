@@ -4,7 +4,7 @@
 KNIT Universal Tool is a flexible framework for **reusing and integrating ontologies** from multiple heterogeneous repositories.  
 It automatically retrieves ontology fragments relevant to user-specified keywords, enriches them by adding taxonomic context, and merges them into a coherent OWL ontology with an **interactive visualisation**.
 
-This repository contains the **Gradio-based interactive interface** of KNIT Universal, which connects to the **Storage Component API** (vectorisation + semantic search) to locate and retrieve ontology classes across distributed repositories.
+This repository contains the **Gradio-based interactive interface** of KNIT Universal, which connects to the **Storage Component API** (vectorisation + semantic search: https://github.com/rorevello/OntoVector-Search-API ) to locate and retrieve ontology classes across distributed repositories.
 
 
 ## 🚀 Features
